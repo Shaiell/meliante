@@ -1,0 +1,14 @@
+﻿  meliante.cpp
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(21): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(21): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(21): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(21): note: esse argumento é usado como um tamanho do buffer
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(24): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(24): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(24): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(24): note: esse argumento é usado como um tamanho do buffer
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(30): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(30): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(30): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\meliante\meliante.cpp(30): note: esse argumento é usado como um tamanho do buffer
+  meliante.vcxproj -> C:\Users\jclri\Desktop\Faculdade\Algoritmos de Programação II\meliante\Debug\meliante.exe
